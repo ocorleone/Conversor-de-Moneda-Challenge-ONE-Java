@@ -1,4 +1,4 @@
-# Conversos-de-Moneda-Challenge-ONE-Java
+# Conversor-de-Moneda-Challenge-ONE-Java
 
 Opcion de convertidor de monedas con las siguientes caracteristicas:
   - Convertir de la moneda de tu país a Dólar
